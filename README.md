@@ -1,2 +1,2 @@
 # ACTIVIDAD-3---MI-PROYECTO-TIENDITA
-Relaciones avanzadas, manejo de errores y principios de diseño
+Relaciones avanzadas, manejo de errores y principios de diseño. ACTIVIDAD 3
